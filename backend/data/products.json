@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Oppo A78",
+    "price": 20200,
+    "description": "A sleek mobile phone for daily usage with great camera features.",
+    "ratings": 4.0,
+    "images": [
+      { "image": "oppo_a78.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Oppo Official",
+    "stock": 50,
+    "numOfReviews": 120,
+    "createdAt": "2024-01-15"
+  },
+  {
+    "name": "Samsung Galaxy A55",
+    "price": 35000,
+    "description": "Mid-range Samsung phone with AMOLED display and 50MP camera.",
+    "ratings": 4.3,
+    "images": [
+      { "image": "samsung_a55.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Samsung Official",
+    "stock": 80,
+    "numOfReviews": 245,
+    "createdAt": "2024-02-10"
+  },
+  {
+    "name": "iPhone 15",
+    "price": 79999,
+    "description": "Apple iPhone 15 with A16 Bionic chip and advanced dual camera system.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "iphone_15.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Apple Store",
+    "stock": 30,
+    "numOfReviews": 512,
+    "createdAt": "2024-01-20"
+  },
+  {
+    "name": "Redmi Note 13",
+    "price": 17999,
+    "description": "Budget-friendly Redmi phone with 108MP camera and 5000mAh battery.",
+    "ratings": 4.2,
+    "images": [
+      { "image": "redmi_note13.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Xiaomi Store",
+    "stock": 150,
+    "numOfReviews": 340,
+    "createdAt": "2024-03-05"
+  },
+  {
+    "name": "OnePlus 12R",
+    "price": 42999,
+    "description": "Powerful OnePlus phone with Snapdragon 8 Gen 1 and 100W fast charging.",
+    "ratings": 4.5,
+    "images": [
+      { "image": "oneplus_12r.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "OnePlus Official",
+    "stock": 60,
+    "numOfReviews": 198,
+    "createdAt": "2024-02-25"
+  },
+  {
+    "name": "Realme 12 Pro",
+    "price": 27999,
+    "description": "Realme 12 Pro with periscope telephoto lens and slim design.",
+    "ratings": 4.1,
+    "images": [
+      { "image": "realme_12pro.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Realme Store",
+    "stock": 90,
+    "numOfReviews": 175,
+    "createdAt": "2024-03-12"
+  },
+  {
+    "name": "Vivo V30",
+    "price": 31999,
+    "description": "Vivo V30 with Aura Light portrait camera and stylish thin body.",
+    "ratings": 4.0,
+    "images": [
+      { "image": "vivo_v30.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Vivo Official",
+    "stock": 70,
+    "numOfReviews": 143,
+    "createdAt": "2024-04-01"
+  },
+  {
+    "name": "Google Pixel 8",
+    "price": 59999,
+    "description": "Google Pixel 8 with Tensor G3 chip and best-in-class AI camera.",
+    "ratings": 4.6,
+    "images": [
+      { "image": "pixel_8.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Google Store",
+    "stock": 40,
+    "numOfReviews": 290,
+    "createdAt": "2024-01-30"
+  },
+  {
+    "name": "Motorola Edge 40",
+    "price": 23999,
+    "description": "Motorola Edge 40 with curved pOLED display and 68W turbo charging.",
+    "ratings": 4.0,
+    "images": [
+      { "image": "moto_edge40.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Motorola Store",
+    "stock": 55,
+    "numOfReviews": 102,
+    "createdAt": "2024-02-18"
+  },
+  {
+    "name": "Nokia G42",
+    "price": 13999,
+    "description": "Nokia G42 with repairable design, 5G support, and 3-day battery life.",
+    "ratings": 3.9,
+    "images": [
+      { "image": "nokia_g42.jpg" }
+    ],
+    "category": "Smartphone",
+    "seller": "Nokia Store",
+    "stock": 110,
+    "numOfReviews": 88,
+    "createdAt": "2024-03-22"
+  }
+]
